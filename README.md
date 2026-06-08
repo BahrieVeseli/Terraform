@@ -1,4 +1,4 @@
-# Master Project 1 - AWS Infrastructure
+# Master Project  - AWS Infrastructure
 
 <img width="1652" height="896" alt="image" src="https://github.com/user-attachments/assets/dc728841-6dae-454b-84cc-941a3db93659" />
 
